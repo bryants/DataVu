@@ -1,0 +1,20 @@
+div#wrapper {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+div#sidebar {
+  width: 20%;
+  float: right;
+}
+
+#map {
+  float:left;
+  width: 400px;
+  height: 600px;
+  overflow: hidden;
+}
+
+#preload {
+  display: none;
+}
